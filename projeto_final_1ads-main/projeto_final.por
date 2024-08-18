@@ -37,7 +37,7 @@ programa
 	}
 	
 	funcao kartsDisponiveis(cadeia modelo[], real valorLocacao[], inteiro quantidadeLocacao[], cadeia locado[], inteiro totalKarts){
-    inteiro verificaKart = 0
+    		inteiro verificaKart = 0
 
     escreva("Karts Disponíveis para Aluguel:\n")
     escreva("*****************************\n")
@@ -178,7 +178,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 3627; 
+ * @POSICAO-CURSOR = 1131; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
